@@ -1,0 +1,7 @@
+{
+    "schema": "technocore-contribution-proof-v1",
+    "artifact_url": "https://github.com/sarqovik/technocore-termux-guide",
+    "commit": "7f11d2f566ca8f0465db254f8324b24b7733d3c1",
+    "did": "did:key:z6Mkg6ktVmSXsyGvJwoBR4uEk8W29D5NEk9cYdZecR9yn9Rh",
+    "signature": "X2hq6n7IpYiqXLEoNR5qtXqQ7Qw53RhxdkjsQ0OxVkO-JeQmddU_917FINEhpC5VGk8BUCqlUPej72uRke-XAA"
+}
